@@ -1,0 +1,4 @@
+This is just a test file
+to check how Langchain's TextLoader document loader works.
+
+I hope this file suffices for my practice.
